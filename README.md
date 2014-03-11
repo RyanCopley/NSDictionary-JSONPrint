@@ -9,6 +9,7 @@ Down with boilerplate!
 
 ## Usage
 
-```NSDictionary* dict = ... your dictionary ...;
+```
+NSDictionary* dict = ... your dictionary ...;
 NSLog(@"JSON Formatted Dictionary: %@", [dict jsonDescription]);
 ```
